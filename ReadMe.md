@@ -1,6 +1,4 @@
 # 💫 About Me:
-👋 Olá, sou Tulio Feitoza!<br><br>🌟 Me apaixonando mais por programação e tecnologia, estou sempre em busca de aprender e compartilhar conhecimento.<br><br>🚀 Meus principais interesses incluem desenvolvimento de inteligência artificial, cibersegurança e blockchain.<br><br>📚 Estou sempre estudando e aprimorando minhas habilidades.<br><br>🎯 Meu objetivo é contribuir para a comunidade de tecnologia e criar soluções inovadoras que tenham um impacto positivo no mundo.<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tuliofeitoza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuliofeitoza) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tuliofeitoza) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/tuliofeitoza) 
