@@ -1,35 +1,52 @@
-<p align="center">Hello World!!</p>
+# 👋 Olá, sou [Seu Nome]!
 
-###
+![Tech GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-</div>
+**Desenvolvedor Front-End | Especialista em WordPress, Vue.js e JavaScript | Ex-aluno da 42 Porto - Piscine**
 
-###
+## 🚀 Sobre Mim
+Sou um desenvolvedor front-end apaixonado por criar experiências digitais intuitivas e eficientes. Tenho experiência prática em projetos que utilizam **WordPress** (abordagem low code), **Vue.js**, e **JavaScript**, sempre buscando entregar soluções que melhorem a experiência dos usuários e a eficiência das empresas. Minha jornada na tecnologia incluiu a participação no bootcamp **Piscine da 42 Porto**, onde aprendi sobre fundamentos de programação e desenvolvi habilidades de trabalho colaborativo e resolução de problemas.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuliofeitoza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+## 🛠️ Tecnologias & Ferramentas
+- **Front-End**: 
+  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+- **Low Code & CMS**: 
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
+  ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white) 
+  ![JetEngine](https://img.shields.io/badge/JetEngine-00C58E?style=for-the-badge&logo=jetengine&logoColor=white)
 
-###
+- **Back-End**: 
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+  ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tuliofeitoza/count.svg?"  />
-</div>
+- **Controle de Versão**: 
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-###
+- **Outras Habilidades**: 
+  ![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design-blue?style=for-the-badge) 
+  ![SEO](https://img.shields.io/badge/SEO-Optimization-brightgreen?style=for-the-badge)
+
+## 📌 O que estou Fazendo Atualmente
+- **Desenvolvendo Projetos Front-End** utilizando Vue.js, focando em entregar interfaces intuitivas e responsivas.
+- **Trabalhando com WordPress** para criar e personalizar sites utilizando uma abordagem low code.
+- **Colaborando em Projetos Open Source** e contribuindo para a comunidade tech.
+- **Aprimorando Habilidades**: Atualmente, estou estudando mais sobre arquitetura de software e melhores práticas em desenvolvimento front-end.
+
+## 💼 Projetos Futuramente no GitHub
+Estou trabalhando em alguns projetos que pretendo disponibilizar em breve aqui no GitHub. Eles incluem desde sites desenvolvidos com WordPress até aplicações em Vue.js. Fique de olho para atualizações!
+
+## 📫 Como me Encontrar
+- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **GitHub**: Você já está aqui! Sinta-se à vontade para explorar meus repositórios e contribuições.
+
+## 🤝 Vamos Conectar?
+Sempre estou aberto a colaborar em projetos interessantes ou discutir ideias inovadoras. Se você está procurando alguém para trabalhar em um projeto de front-end ou apenas quer trocar uma ideia, entre em contato!
+
+---
+Obrigado por visitar meu perfil no GitHub! 😊
