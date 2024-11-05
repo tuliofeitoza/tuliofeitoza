@@ -1,4 +1,4 @@
-# 👋 Olá, sou [Seu Nome]!
+# 👋 Olá, sou Tulio!
 
 ![Tech GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
@@ -42,7 +42,7 @@ Sou um desenvolvedor front-end apaixonado por criar experiências digitais intui
 Estou trabalhando em alguns projetos que pretendo disponibilizar em breve aqui no GitHub. Eles incluem desde sites desenvolvidos com WordPress até aplicações em Vue.js. Fique de olho para atualizações!
 
 ## 📫 Como me Encontrar
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/tuliofeitoza)
 - **GitHub**: Você já está aqui! Sinta-se à vontade para explorar meus repositórios e contribuições.
 
 ## 🤝 Vamos Conectar?
