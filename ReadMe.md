@@ -31,10 +31,6 @@ Sou um desenvolvedor front-end apaixonado por criar experiências digitais intui
 ## 📌 O que estou Fazendo Atualmente
 - **Desenvolvendo Projetos Front-End** utilizando Vue.js, focando em entregar interfaces intuitivas e responsivas.
 
-## 📫 Como me Encontrar
-- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/tuliofeitoza)
-- **GitHub**: Você já está aqui! Sinta-se à vontade para explorar meus repositórios e contribuições.
-
 ## 🤝 Vamos Conectar?
 Sempre estou aberto a colaborar em projetos interessantes ou discutir ideias inovadoras. Se você está procurando alguém para trabalhar em um projeto de front-end ou apenas quer trocar uma ideia, entre em contato!
 
