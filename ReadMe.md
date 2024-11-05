@@ -1,9 +1,5 @@
 # 👋 Olá, sou Tulio!
 
-![Tech GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
-
-**Desenvolvedor Front-End | Especialista em WordPress, Vue.js e JavaScript | Ex-aluno da 42 Porto - Piscine**
-
 ## 🚀 Sobre Mim
 Sou um desenvolvedor front-end apaixonado por criar experiências digitais intuitivas e eficientes. Tenho experiência prática em projetos que utilizam **WordPress** (abordagem low code), **Vue.js**, e **JavaScript**, sempre buscando entregar soluções que melhorem a experiência dos usuários e a eficiência das empresas. Minha jornada na tecnologia incluiu a participação no bootcamp **Piscine da 42 Porto**, onde aprendi sobre fundamentos de programação e desenvolvi habilidades de trabalho colaborativo e resolução de problemas.
 
@@ -50,3 +46,5 @@ Sempre estou aberto a colaborar em projetos interessantes ou discutir ideias ino
 
 ---
 Obrigado por visitar meu perfil no GitHub! 😊
+
+![Tech GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
