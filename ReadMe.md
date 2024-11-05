@@ -30,12 +30,6 @@ Sou um desenvolvedor front-end apaixonado por criar experiências digitais intui
 
 ## 📌 O que estou Fazendo Atualmente
 - **Desenvolvendo Projetos Front-End** utilizando Vue.js, focando em entregar interfaces intuitivas e responsivas.
-- **Trabalhando com WordPress** para criar e personalizar sites utilizando uma abordagem low code.
-- **Colaborando em Projetos Open Source** e contribuindo para a comunidade tech.
-- **Aprimorando Habilidades**: Atualmente, estou estudando mais sobre arquitetura de software e melhores práticas em desenvolvimento front-end.
-
-## 💼 Projetos Futuramente no GitHub
-Estou trabalhando em alguns projetos que pretendo disponibilizar em breve aqui no GitHub. Eles incluem desde sites desenvolvidos com WordPress até aplicações em Vue.js. Fique de olho para atualizações!
 
 ## 📫 Como me Encontrar
 - **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/tuliofeitoza)
